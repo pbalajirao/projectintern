@@ -1,0 +1,9 @@
+.component:hover{
+    background-color: plum;
+
+}
+
+html,body {
+    margin:0;
+    padding:0;
+}
